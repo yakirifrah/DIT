@@ -29,7 +29,7 @@ https://nodejs.org/en/
 	yarn global add create-native-app
 
 4. ANDROID simulator -
-	4.1. Running the ANDROID simulator 
+	4.1. Running the ANDROID simulator -
 		Download and install it from the official site 
 		https://developer.android.com/studio/
 			a.while installing check the option  "Android Virtual Device" for installing simulator
@@ -40,9 +40,8 @@ https://nodejs.org/en/
 
 	4.2 running the App - open the project app in the IDE (Visual Studio Code) and Paste that at a cmd/terminal prompt for running 			the ANDROID simulator :
 		yarn run android
-
-
 5. IOS simulator MAC users only -
+
 	5.1. Install Xcode from the AppStore, open the project app folder and select the folder "iOS"
 	5.2. Running the App - open the project app in the IDE (Visual Studio Code) and Paste that at a terminal prompt for running the 			iOS simulator:
 				yarn run ios
