@@ -43,6 +43,7 @@ https://nodejs.org/en/
 5. IOS simulator MAC users only -
 
 	5.1. Install Xcode from the AppStore, open the project app folder and select the folder "iOS"
+	
 	5.2. Running the App - open the project app in the IDE (Visual Studio Code) and Paste that at a terminal prompt for running the 			iOS simulator:
 				yarn run ios
 
