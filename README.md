@@ -5,6 +5,7 @@ http://facebook.github.io/react-native/docs/getting-started.html
 --------------------------------------------------------------------
 
 for run this app first time, should install the environments dependence:
+
 1.nodejs - Node.js® is a JavaScript runtime
 https://nodejs.org/en/
 
