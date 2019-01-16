@@ -13,6 +13,7 @@ https://nodejs.org/en/
 	Visual Studio Code : code.visualstudio.com
 
 3. Installing the CLI - 
+
 	3.1.MAC users - 
 		https://brew.sh - Installing Homebrew package manager for macOS for installing yarn package:
 		
@@ -29,6 +30,7 @@ https://nodejs.org/en/
 	yarn global add create-native-app
 
 4. ANDROID simulator -
+
 	4.1. Running the ANDROID simulator -
 		Download and install it from the official site 
 		https://developer.android.com/studio/
