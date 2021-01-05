@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "android": "^0.0.8",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "firebase": "^5.0.3",
     "latlon-geohash": "^1.1.0",
     "react": "16.3.1",
